@@ -1,0 +1,13 @@
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/bin/Debug/netcoreapp3.1/car
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/bin/Debug/netcoreapp3.1/car.deps.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/bin/Debug/netcoreapp3.1/car.runtimeconfig.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/bin/Debug/netcoreapp3.1/car.runtimeconfig.dev.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/bin/Debug/netcoreapp3.1/car.dll
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/bin/Debug/netcoreapp3.1/car.pdb
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/obj/Debug/netcoreapp3.1/car.csprojAssemblyReference.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/obj/Debug/netcoreapp3.1/car.csproj.CoreCompileInputs.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/obj/Debug/netcoreapp3.1/car.AssemblyInfoInputs.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/obj/Debug/netcoreapp3.1/car.AssemblyInfo.cs
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/obj/Debug/netcoreapp3.1/car.dll
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/obj/Debug/netcoreapp3.1/car.pdb
+/home/psiance/Desktop/Epicodus/Week-5-04/Tuesday/car-dealership/obj/Debug/netcoreapp3.1/car.genruntimeconfig.cache
